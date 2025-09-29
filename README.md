@@ -211,7 +211,7 @@ Di menu ini, pengguna diminta mengisi detail sepatu: nama, merk, warna, dan ukur
 ---
 
 <details>
-<summary><h3>1️⃣ Tambah Sandal</h3></summary>
+<summary><h3>1️2️⃣ Tambah Sandal</h3></summary>
 
 Di menu ini, pengguna diminta mengisi detail sepatu: nama, merk, warna, dan jenis sandal. Data yang valid akan langsung tersimpan, lalu program memberi konfirmasi "Sandal berhasil ditambahkan!". Data yang dimasukkan akan otomatis tersimpan dalam koleksi.  
 
@@ -224,7 +224,7 @@ Di menu ini, pengguna diminta mengisi detail sepatu: nama, merk, warna, dan jeni
 ---
 
 <details>
-<summary><h3>3️⃣ Tampilkan Semua Produk</h3></summary>
+<summary><h3>2️3️⃣Tampilkan Semua Produk</h3></summary>
 
 Menu ini akan menampilkan semua sepatu dan sandal yang sudah ada dalam koleksi,informasi akan ditampilkan dalam bentuk list agar pengguna bisa melihat data dengan jelas. Kalau belum ada data, sistem akan memberi tahu bahwa koleksi masih kosong seperti dibawah ini: 
 
@@ -276,7 +276,7 @@ Menu ini memungkinkan pengguna menghapus sepatu tertentu dari daftar.Sistem akan
 ---
 
 <details>
-<summary><h3>5️⃣ Cari Produk </h3></summary>
+<summary><h3>5️6️⃣ Cari Produk </h3></summary>
 
 Fitur pencarian berfungsi untuk memudahkan pengguna menemukan data sepatu dan sandal tertentu ketika koleksi sudah cukup banyak. Pengguna hanya perlu memasukkan kata kunci berupa nama, merk, atau warna, kemudian sistem akan menampilkan daftar sepatu atau sandal yang sesuai dengan kata kunci tersebut. 
 
@@ -297,7 +297,7 @@ Fitur pencarian berfungsi untuk memudahkan pengguna menemukan data sepatu dan sa
 ---
 
 <details>
-<summary><h3>6️⃣ Keluar Program</h3></summary>
+<summary><h3>6️7️⃣ Keluar Program</h3></summary>
 
 Jika pengguna ingin keluar dari program, cukup memilih opsi 0 (Keluar) pada menu utama. Setelah dipilih, sistem akan menampilkan pesan “Terima kasih, program selesai.” sebagai tanda bahwa program sudah dihentikan. Bagian bawah layar juga menampilkan informasi dari Java, yaitu status BUILD SUCCESS yang berarti program berhasil dijalankan tanpa error, serta waktu total eksekusi program hingga selesai.
 
