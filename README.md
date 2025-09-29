@@ -84,6 +84,7 @@ Interface InfoProduk bertujuan untuk:
 
 ## ✅ 1. Abstraction (Abstraksi)
 Abstraksi diterapkan dalam program ini melalui:
+
 Abstract class: Produk
 
 Interface: InfoProduk
